@@ -7,10 +7,9 @@ const Home = () => {
     return (
         <React.Fragment>
             <Header/>
-            <body className="body">
+            <div className="body">
                 <h1>Contenido de Home</h1>
-            </body>
-            
+            </div>
             <Footer/>
         </React.Fragment>
     )
