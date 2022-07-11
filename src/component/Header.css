@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    height: 10vh;
+    background-color: black;
+    color: wheat;
+    display: flex;
+    align-items: center;
+}
+
+.header h1 {
+    margin-left: 40px;
+
+}
+.header nav {
+    display: flex;
+    margin-left: auto;
+}
+
+.header ul {
+    display: flex;
+    margin-right: 10px;
+}
+.header li {
+    list-style: none;
+    padding: 10px;
+    border: solid 1.5px wheat;
+    margin: 15px;
+}

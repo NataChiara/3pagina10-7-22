@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgba(231, 230, 230, 0.63);
+    color: blue;
+    height: 83vh;
+}
